@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ana+Carolina+Almeida)](https://git.io/typing-svg)
 
-- 🌱 Desenvolvedora Full Stack em formação na Kenzie Academy Brasil
+- 💻 Desenvolvedora Full Stack em formação na Kenzie Academy Brasil
 
 ##
 
